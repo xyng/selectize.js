@@ -11,6 +11,7 @@
 	},
 	"main": [
 		"dist/css/selectize.css",
+		"dist/css/selectize.default.css",
 		"dist/js/selectize.js"
 	],
 	"ignore": [
